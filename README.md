@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+# My name is Jessica.
+This is my first repository
